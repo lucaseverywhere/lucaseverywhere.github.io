@@ -1,0 +1,19 @@
+.video {
+  height: 100%;
+  width: 100%;
+}
+.playerBox {
+  position: absolute;
+  z-index: 0;
+  width: 2556.44px;
+  height: 1215px;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+  opacity: 1;
+  -webkit-user-select: none;
+  margin-top: -279px;
+  margin-left: -287.72px;
+  transition-property: opacity;
+  transition-duration: 1000ms;
+}
